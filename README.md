@@ -30,4 +30,4 @@ Mi objetivo es subir proyectos que reflejen lo aprendido en el máster, desde ma
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-acerbi-6b4965395/)
 ---
 
-###### Última actualización: Diciembre 2025 (¡Puedes poner la fecha real!)
+###### Última actualización: Diciembre 2025
