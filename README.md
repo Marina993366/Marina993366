@@ -11,8 +11,8 @@ Actualmente cursando el **Máster en Desarrollo Web** de la **Academia Conquer B
 | Categoría | Tecnologías |
 | :--- | :--- |
 | **Front-End** | HTML5, CSS3, JavaScript, Tailwind |
-| **Back-End** | Node.js (en curso) |
-| **Bases de Datos** | SQL |
+| **Back-End** | SQL |
+| **Bases de Datos** | Excel |
 | **Control de Versiones** | Git, GitHub |
 
 ---
